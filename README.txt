@@ -7,32 +7,32 @@ Como treinar uma IA usando python e opencv
 
 Você pode usar esse código .py, que remove espaços, para ajudar:
 
-	import urllib
-	import numpy as np
-	import cv2
-	import os
-	import os
+		import urllib
+		import numpy as np
+		import cv2
+		import os
+		import os
 
-	for file_type in ['nome da pasta de imagens positivas aqui ']:
-	    for img in os.listdir(file_type):
-		os.rename(file_type+"/"+img, file_type + "/"+img.replace(" ", ""))
+		for file_type in ['nome da pasta de imagens positivas aqui ']:
+		    for img in os.listdir(file_type):
+			os.rename(file_type+"/"+img, file_type + "/"+img.replace(" ", ""))
 
-	for file_type in ['nome da pasta de imagens negativas aqui']:
-	    for img in os.listdir(file_type):
-		os.rename(file_type+"/"+img, file_type + "/"+img.replace(" ", ""))
+		for file_type in ['nome da pasta de imagens negativas aqui']:
+		    for img in os.listdir(file_type):
+			os.rename(file_type+"/"+img, file_type + "/"+img.replace(" ", ""))
 
 	Então criar um .txt listando todas as imagens negativas:(código que criará automaticamente para você)
 
-	import urllib
-	import numpy as np
-	import cv2
-	import os
+		import urllib
+		import numpy as np
+		import cv2
+		import os
 
-	for file_type in ['nome da pasta de imagens negativas aqui']:
-	    for img in os.listdir(file_type):
-		line = file_type+'/'+img+'\n'
-		with open('negativas.txt','a') as f:
-		    f.write(line)
+		for file_type in ['nome da pasta de imagens negativas aqui']:
+		    for img in os.listdir(file_type):
+			line = file_type+'/'+img+'\n'
+			with open('negativas.txt','a') as f:
+			    f.write(line)
 
 
 	Agora faça download das aplicações do opencv em "opencv.org", extraia as onde desejar.
@@ -56,21 +56,21 @@ Você pode usar esse código .py, que remove espaços, para ajudar:
 
 	Essa é a etapa mais demorada, após a sua conclusão o treinamento estará completo, o seu haarcascade estará na pasta de treinamento com o nome de “cascade.xml”, você já pode testar a IA com esse código:
 
-	import numpy as np
-	import cv2
+		import numpy as np
+		import cv2
 
-	car_cascade = cv2.CascadeClassifier("pasta de treinamento/cascade.xml")
-	img = cv2.imread("imagem de analise.jpg")
-	height, width, c = img.shape
-	gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
-	objetos = car_cascade.detectMultiScale(gray, 1.2, 5)
-	print(objetos)
-	for (x,y,w,h) in objetos:
-	    cv2.rectangle(img,(x,y),(x+w,y+h),(0,0,255),2)
+		car_cascade = cv2.CascadeClassifier("pasta de treinamento/cascade.xml")
+		img = cv2.imread("imagem de analise.jpg")
+		height, width, c = img.shape
+		gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+		objetos = car_cascade.detectMultiScale(gray, 1.2, 5)
+		print(objetos)
+		for (x,y,w,h) in objetos:
+		    cv2.rectangle(img,(x,y),(x+w,y+h),(0,0,255),2)
 
-	cv2.imshow('Analise', img)
-	cv2.waitKey(0)
-	cv2.destroyAllWindows()
+		cv2.imshow('Analise', img)
+		cv2.waitKey(0)
+		cv2.destroyAllWindows()
 
 	Você saberá que funcionou se o objeto for marcado com um retângulo vermelho.
 	
