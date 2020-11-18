@@ -73,3 +73,5 @@ Você pode usar esse código .py, que remove espaços, para ajudar:
 	cv2.destroyAllWindows()
 
 	Você saberá que funcionou se o objeto for marcado com um retângulo vermelho.
+	
+																Desenvolvedor: Matheus Pereira Garbossa
