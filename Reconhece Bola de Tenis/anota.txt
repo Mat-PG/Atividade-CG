@@ -1,0 +1,141 @@
+positivas\bolinha(1).jpeg 1 62 60 378 373
+positivas\bolinha(1).jpg 1 65 219 130 128
+positivas\bolinha(10).jpeg 1 23 92 141 135
+positivas\bolinha(10).jpg 1 82 56 163 159
+positivas\bolinha(100).jpg 1 390 194 221 219
+positivas\bolinha(101).jpg 1 186 274 135 133
+positivas\bolinha(102).jpg 1 539 177 177 180
+positivas\bolinha(103).jpg 1 138 92 523 515
+positivas\bolinha(104).jpg 1 381 163 164 163
+positivas\bolinha(105).jpg 1 213 173 213 206
+positivas\bolinha(106).jpg 1 475 138 322 322
+positivas\bolinha(107).jpg 1 378 222 118 115
+positivas\bolinha(108).jpg 1 508 302 134 126
+positivas\bolinha(109).jpg 1 391 199 381 384
+positivas\bolinha(11).jpeg 3 167 494 91 94 271 519 97 95 288 468 86 73
+positivas\bolinha(11).jpg 1 46 1 225 196
+positivas\bolinha(110).jpg 1 256 323 359 346
+positivas\bolinha(111).jpg 1 459 197 394 396
+positivas\bolinha(112).jpg 1 370 163 448 452
+positivas\bolinha(113).jpg 1 293 356 390 312
+positivas\bolinha(114).jpg 1 524 286 514 379
+positivas\bolinha(115).jpg 1 305 183 535 483
+positivas\bolinha(116).jpg 1 399 213 538 454
+positivas\bolinha(117).jpg 1 365 267 276 283
+positivas\bolinha(118).jpg 1 405 286 165 185
+positivas\bolinha(119).jpg 1 360 293 148 144
+positivas\bolinha(12).jpeg 2 25 276 31 24 375 255 20 15
+positivas\bolinha(12).jpg 1 196 135 91 77
+positivas\bolinha(120).jpg 1 407 350 244 248
+positivas\bolinha(121).jpg 1 401 342 241 244
+positivas\bolinha(122).jpg 1 359 273 345 346
+positivas\bolinha(13).jpeg 1 230 88 53 53
+positivas\bolinha(13).jpg 1 234 78 40 38
+positivas\bolinha(14).jpeg 1 230 386 67 69
+positivas\bolinha(14).jpg 2 207 426 49 50 311 546 54 55
+positivas\bolinha(15).jpeg 1 81 117 122 121
+positivas\bolinha(15).jpg 1 90 131 151 144
+positivas\bolinha(16).jpeg 3 1 34 152 167 206 1 171 158 419 94 79 159
+positivas\bolinha(16).jpg 1 196 37 111 115
+positivas\bolinha(17).jpeg 5 266 73 63 65 70 259 63 66 103 305 70 63 296 320 66 68 291 484 76 78
+positivas\bolinha(17).jpg 1 226 127 124 122
+positivas\bolinha(18).jpeg 1 181 206 50 54
+positivas\bolinha(18).jpg 1 284 289 98 97
+positivas\bolinha(19).jpeg 1 371 235 76 73
+positivas\bolinha(19).jpg 1 182 139 105 102
+positivas\bolinha(2).jpeg 2 118 33 324 307 1 2 160 276
+positivas\bolinha(2).jpg 1 98 222 168 162
+positivas\bolinha(20).jpeg 1 257 288 102 101
+positivas\bolinha(20).jpg 3 133 205 67 73 221 199 75 81 278 201 41 65
+positivas\bolinha(21).jpg 1 331 76 121 119
+positivas\bolinha(22).jpg 1 288 587 70 73
+positivas\bolinha(23).jpg 1 258 29 45 45
+positivas\bolinha(24).jpg 1 294 75 115 112
+positivas\bolinha(25).jpg 1 1 2 318 330
+positivas\bolinha(26).jpg 1 68 341 341 327
+positivas\bolinha(27).jpg 1 203 97 187 180
+positivas\bolinha(28).jpg 4 248 116 123 125 446 109 53 119 327 37 103 105 156 11 100 97
+positivas\bolinha(29).jpg 1 197 254 93 70
+positivas\bolinha(3).jpeg 1 94 40 288 287
+positivas\bolinha(3).jpg 1 332 199 81 78
+positivas\bolinha(30).jpg 3 265 118 128 146 118 113 132 147 10 172 152 137
+positivas\bolinha(31).jpg 1 194 465 98 99
+positivas\bolinha(32).jpg 1 217 216 71 62
+positivas\bolinha(33).jpg 1 103 160 140 143
+positivas\bolinha(34).jpg 1 302 82 150 144
+positivas\bolinha(35).jpg 2 169 156 102 118 165 352 80 76
+positivas\bolinha(36).jpg 7 51 462 73 81 336 501 87 85 440 474 59 81 424 347 62 67 421 246 53 55 179 165 41 44 130 190 50 34
+positivas\bolinha(37).jpg 2 97 610 141 58 122 552 91 67
+positivas\bolinha(38).jpg 1 155 86 192 196
+positivas\bolinha(39).jpg 1 200 445 86 95
+positivas\bolinha(4).jpeg 1 154 252 189 187
+positivas\bolinha(4).jpg 1 310 165 120 127
+positivas\bolinha(40).jpg 2 153 551 70 68 194 538 52 53
+positivas\bolinha(41).jpg 3 5 147 119 124 124 148 120 117 342 169 137 138
+positivas\bolinha(42).jpg 1 202 104 91 90
+positivas\bolinha(43).jpg 1 251 114 59 60
+positivas\bolinha(44).jpg 1 201 158 78 79
+positivas\bolinha(45).jpg 1 374 276 44 47
+positivas\bolinha(46).jpg 1 129 61 363 346
+positivas\bolinha(47).jpg 1 493 147 126 124
+positivas\bolinha(48).jpg 1 261 60 446 459
+positivas\bolinha(49).jpg 1 441 127 270 266
+positivas\bolinha(5).jpeg 1 297 159 76 72
+positivas\bolinha(5).jpg 1 189 347 72 70
+positivas\bolinha(50).jpg 1 335 285 182 182
+positivas\bolinha(51).jpg 1 469 223 202 198
+positivas\bolinha(52).jpg 1 536 208 200 198
+positivas\bolinha(53).jpg 1 319 150 280 277
+positivas\bolinha(54).jpg 1 184 376 233 224
+positivas\bolinha(55).jpg 1 288 140 297 297
+positivas\bolinha(56).jpg 1 353 171 317 319
+positivas\bolinha(57).jpg 1 398 106 293 294
+positivas\bolinha(58).jpg 1 499 243 154 144
+positivas\bolinha(59).jpg 1 425 235 132 133
+positivas\bolinha(6).jpeg 1 308 223 25 23
+positivas\bolinha(6).jpg 1 171 95 162 163
+positivas\bolinha(60).jpg 1 587 126 242 237
+positivas\bolinha(61).jpg 1 259 191 244 242
+positivas\bolinha(62).jpg 1 397 481 152 151
+positivas\bolinha(63).jpg 1 336 80 310 321
+positivas\bolinha(64).jpg 1 473 287 331 335
+positivas\bolinha(65).jpg 1 578 393 409 275
+positivas\bolinha(66).jpg 1 725 2 312 322
+positivas\bolinha(67).jpg 1 450 176 309 323
+positivas\bolinha(68).jpg 1 202 158 311 326
+positivas\bolinha(69).jpg 1 118 286 153 145
+positivas\bolinha(7).jpeg 2 206 426 52 49 310 545 55 58
+positivas\bolinha(7).jpg 1 251 329 166 168
+positivas\bolinha(70).jpg 1 721 89 176 176
+positivas\bolinha(71).jpg 1 237 243 351 361
+positivas\bolinha(72).jpg 1 209 99 320 321
+positivas\bolinha(73).jpg 1 520 261 515 403
+positivas\bolinha(74).jpg 1 1 0 474 508
+positivas\bolinha(75).jpg 1 172 412 479 253
+positivas\bolinha(76).jpg 1 577 3 424 349
+positivas\bolinha(77).jpg 1 546 219 251 258
+positivas\bolinha(78).jpg 1 573 321 204 205
+positivas\bolinha(79).jpg 1 252 150 39 40
+positivas\bolinha(8).jpeg 1 312 587 64 65
+positivas\bolinha(8).jpg 1 316 62 44 48
+positivas\bolinha(80).jpg 1 423 258 91 90
+positivas\bolinha(81).jpg 2 209 143 68 67 153 187 75 71
+positivas\bolinha(82).jpg 1 187 175 101 99
+positivas\bolinha(83).jpg 1 256 193 98 98
+positivas\bolinha(84).jpg 1 363 147 91 83
+positivas\bolinha(85).jpg 1 155 94 92 94
+positivas\bolinha(86).jpg 1 23 207 160 161
+positivas\bolinha(87).jpg 2 142 176 108 100 418 82 131 129
+positivas\bolinha(89).jpg 1 83 124 102 95
+positivas\bolinha(9).jpeg 1 81 487 126 134
+positivas\bolinha(9).jpg 1 87 82 210 212
+positivas\bolinha(90).jpg 2 64 173 199 200 375 166 193 207
+positivas\bolinha(91).jpg 2 278 196 55 51 1 266 24 62
+positivas\bolinha(92).jpg 1 267 250 95 100
+positivas\bolinha(93).jpg 1 370 235 108 110
+positivas\bolinha(94).jpg 1 41 41 245 255
+positivas\bolinha(95).jpg 1 377 263 58 59
+positivas\bolinha(96).jpg 1 118 63 566 565
+positivas\bolinha(97).jpg 1 56 48 691 620
+positivas\bolinha(98).jpg 1 75 33 428 417
+positivas\bolinha(99).jpg 1 466 230 244 226
